@@ -1,0 +1,49 @@
+.post-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 16px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.post-card h2 {
+    margin-top: 0;
+    color: #333;
+}
+
+.post-card p {
+    color: #666;
+}
+.posts-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+    background: #000;
+    color: #fff;
+    min-height: 100vh;
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    font-size: 1.2em;
+    line-height: 1,6;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.btn-primary {
+    justify-content: center;
+    text-align: center;
+    text-justify: ;
+    align-items: center;
+    display: inline-block;
+    margin-top: 10px;
+    padding: 5px 10px;
+    
+    color: rgb(20, 14, 195);
+    text-decoration: none;
+    border-radius: 5px;
+}
